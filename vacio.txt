@@ -1,4 +1,3 @@
 hola soy Beatriz
-primer cambio ++
-segundo cambio
 
+este fue un cambio con el giyt id 
